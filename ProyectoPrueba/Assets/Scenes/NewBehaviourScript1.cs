@@ -39,7 +39,7 @@ public class NewBehaviourScript1 : MonoBehaviour
             else
             {
                 message = "Has perdido una vida";
-                energy = 100f
+                energy = 100f;
             }
 
         }
